@@ -1,31 +1,37 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<rss version="2.0">
+<rss version="2.0"
+     xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>PetroliumEngine Updates</title>
     <link>https://milovnikmhd1234.github.io/PetroliumEngine-/</link>
     <description>Official updates from PetroliumEngine Discord server</description>
     <language>cs</language>
-    <lastBuildDate>Tue, 07 Apr 2026 01:30:00 GMT</lastBuildDate>
+
+    <atom:link href="https://milovnikmhd1234.github.io/PetroliumEngine-/feed.xml"
+               rel="self"
+               type="application/rss+xml" />
+
+    <lastBuildDate>Tue, 07 Apr 2026 00:30:00 GMT</lastBuildDate>
 
     <item>
       <title>Update 1.0: Úprava Discordu</title>
       <description><![CDATA[Přidali jsme nové role a kanál do serveru.]]></description>
-      <pubDate>Tue, 07 Apr 2026 01:22:00 GMT</pubDate>
-      <guid>update1</guid>
+      <pubDate>Tue, 07 Apr 2026 00:20:00 GMT</pubDate>
+      <guid isPermaLink="false">update1</guid>
     </item>
 
     <item>
       <title>Event: Soutěž o nejlepší repaint</title>
       <description><![CDATA[Zapojte se do soutěže o nejlepší repaint autobusu – vítěz získá roli VIP.]]></description>
-      <pubDate>Tue, 07 Apr 2026 01:24:00 GMT</pubDate>
-      <guid>event1</guid>
+      <pubDate>Tue, 07 Apr 2026 00:22:00 GMT</pubDate>
+      <guid isPermaLink="false">event1</guid>
     </item>
     
     <item>
       <title>Update stránek</title>
       <description><![CDATA[Máme GitHub Pages web.]]></description>
-      <pubDate>Tue, 07 Apr 2026 01:26:00 GMT</pubDate>
-      <guid>update2</guid>
+      <pubDate>Tue, 07 Apr 2026 00:25:00 GMT</pubDate>
+      <guid isPermaLink="false">update2</guid>
     </item>
 
   </channel>
