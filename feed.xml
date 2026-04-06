@@ -2,27 +2,30 @@
 <rss version="2.0">
   <channel>
     <title>PetroliumEngine Updates</title>
-    <link>https://discord.gg/A9be6kxkE8</link>
+    <link>https://milovnikmhd1234.github.io/PetroliumEngine-/</link>
     <description>Official updates from PetroliumEngine Discord server</description>
     <language>cs</language>
-    <lastBuildDate>Tue, 07 Apr 2026 01:20:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 Apr 2026 01:30:00 GMT</lastBuildDate>
 
     <item>
-      <title>Update1.0: Úprava Discordu</title>
-      <description>Přidali jsme nové role a kanal do serveru.</description>
+      <title>Update 1.0: Úprava Discordu</title>
+      <description><![CDATA[Přidali jsme nové role a kanál do serveru.]]></description>
       <pubDate>Tue, 07 Apr 2026 01:22:00 GMT</pubDate>
+      <guid>update1</guid>
     </item>
 
     <item>
       <title>Event: Soutěž o nejlepší repaint</title>
-      <description>Zapojte se do soutěže o nejlepší repaint autobusu – vítěz získá Roli VIP</description>
+      <description><![CDATA[Zapojte se do soutěže o nejlepší repaint autobusu – vítěz získá roli VIP.]]></description>
       <pubDate>Tue, 07 Apr 2026 01:24:00 GMT</pubDate>
+      <guid>event1</guid>
     </item>
     
     <item>
-      <title>Update Stránek</title>
-      <description>Mame GitHub Oages web</description>
+      <title>Update stránek</title>
+      <description><![CDATA[Máme GitHub Pages web.]]></description>
       <pubDate>Tue, 07 Apr 2026 01:26:00 GMT</pubDate>
+      <guid>update2</guid>
     </item>
 
   </channel>
