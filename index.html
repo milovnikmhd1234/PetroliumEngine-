@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>PetroliumEngine Updates</title>
+  <style>
+    /* Futuristický styl */
+    body {
+      background: linear-gradient(135deg, #0f0c29, #302b63, #24243e);
+      color: #00ffff;
+      font-family: 'Orbitron', sans-serif;
+      margin: 0;
+      padding: 0;
+    }
+
+    header {
+      text-align: center;
+      padding: 2rem;
+      font-size: 2rem;
+      letter-spacing: 2px;
+      border-bottom: 2px solid #00ffff;
+    }
+
+    .updates {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      padding: 2rem;
+      gap: 1.5rem;
+    }
+
+    .update {
+      background: rgba(0, 255, 255, 0.1);
+      border: 1px solid #00ffff;
+      border-radius: 10px;
+      padding: 1rem 2rem;
+      width: 90%;
+      max-width: 700px;
+      transition: transform 0.3s ease, box-shadow 0.3s ease;
+    }
+
+    .update:hover {
+      transform: scale(1.02);
+      box-shadow: 0 0 15px #00ffff;
+    }
+
+    .update h2 {
+      margin: 0 0 0.5rem 0;
+      font-size: 1.5rem;
+    }
+
+    .update p {
+      margin: 0.5rem 0;
+      font-size: 1.1rem;
+    }
+
+    .date {
+      font-size: 0.9rem;
+      color: #99ffff;
+    }
+  </style>
+  <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@500&display=swap" rel="stylesheet">
+</head>
+<body>
+  <header>PetroliumEngine Updates</header>
+
+  <div class="updates">
+    <div class="update">
+      <h2>Nový update: Vozidla v testu</h2>
+      <p>Přidali jsme nové testovací vozy do serveru, které můžete zkusit v našem sandboxu.</p>
+      <p class="date">7. dubna 2026</p>
+    </div>
+
+    <div class="update">
+      <h2>Event: Soutěž o nejlepší repaint</h2>
+      <p>Zapojte se do soutěže o nejlepší repaint autobusu – vítěz získá speciální roli!</p>
+      <p class="date">6. dubna 2026</p>
+    </div>
+
+    <div class="update">
+      <h2>Nová funkce: AI asistent pro server</h2>
+      <p>Představujeme AI asistenta, který vám pomůže s informacemi a tipy během hraní.</p>
+      <p class="date">5. dubna 2026</p>
+    </div>
+  </div>
+</body>
+</html>
